@@ -2,7 +2,7 @@
 
 ----
 
-.. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
+.. figure:: https://fullio.com/wp-content/uploads/2024/08/Logo.png
    :target: https://docs.searxng.org/
    :alt: SearXNG
    :width: 100%
